@@ -1,0 +1,8 @@
+
+{
+  "name": "BioSentinel Multi-Role Platform",
+  "description": "A comprehensive bioinformatics system for FASTQ analysis with role-based access for Lab, Doctor, and Patient users.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
